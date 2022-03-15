@@ -1,0 +1,451 @@
+[
+     {
+         "text": "I'd like to book a trip to Atlantis from Caprica on Saturday, August 13, 2016 for 8 adults. I have a tight budget of 1700.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 27,
+                 "endCharIndex": 35,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 41,
+                 "endCharIndex": 48,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 52,
+                 "endCharIndex": 77,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 117,
+                 "endCharIndex": 121,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "Hello, I am looking to book a vacation from Gotham City to Mos Eisley for $2100.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 59,
+                 "endCharIndex": 69,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 44,
+                 "endCharIndex": 55,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 75,
+                 "endCharIndex": 79,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "Hello there i am looking to go on a vacation with my family to Gotham City, can you help me?",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 63,
+                 "endCharIndex": 74,
+                 "entityName": "To"
+             }
+         ]
+     },
+     {
+         "text": "Hi I'd like to go to Caprica from Busan, between Sunday August 21, 2016 and Wednesday August 31, 2016",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 21,
+                 "endCharIndex": 28,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 34,
+                 "endCharIndex": 39,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 49,
+                 "endCharIndex": 71,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 76,
+                 "endCharIndex": 101,
+                 "entityName": "Return_date"
+             }
+         ]
+     },
+     {
+         "text": "Hello, I am looking to book a trip for 2 adults and 6 children for $21,300 or less. We are departing from Kochi for Denver.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 116,
+                 "endCharIndex": 122,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 106,
+                 "endCharIndex": 111,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 67,
+                 "endCharIndex": 74,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "Hey, i Want to go to St. Louis on the 17th of August",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 21,
+                 "endCharIndex": 30,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 38,
+                 "endCharIndex": 52,
+                 "entityName": "Departure_date"
+             }
+         ]
+     },
+     {
+         "text": "I'm looking for a trip to Gotham City leaving from Kakariko Village on Saturday, August 13, 2016. 3 adults for no more than $2400 USD.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 26,
+                 "endCharIndex": 37,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 51,
+                 "endCharIndex": 67,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 71,
+                 "endCharIndex": 96,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 124,
+                 "endCharIndex": 133,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "Hello, I would like to book a 2-week trip leaving from Melbourne on August 27. I would like to go to Mannheim.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 101,
+                 "endCharIndex": 109,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 55,
+                 "endCharIndex": 64,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 68,
+                 "endCharIndex": 77,
+                 "entityName": "Departure_date"
+             }
+         ]
+     },
+     {
+         "text": "Hello, I am planning to book a trip to pittsborgh",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 39,
+                 "endCharIndex": 49,
+                 "entityName": "To"
+             }
+         ]
+     },
+     {
+         "text": "Hi, I need to go to Mos Eisley for a wedding, leaving on Saturday, August 13, 2016 and returning on Tuesday, August 16, 2016. Preferably for $3700.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 20,
+                 "endCharIndex": 30,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 57,
+                 "endCharIndex": 82,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 100,
+                 "endCharIndex": 124,
+                 "entityName": "Return_date"
+             },
+             {
+                 "startCharIndex": 141,
+                 "endCharIndex": 146,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "I'd like to get away from Monday, August 15, 2016 to Wednesday, August 31, 2016. My budget is $3200 and I would leave from Detroit.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 123,
+                 "endCharIndex": 130,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 26,
+                 "endCharIndex": 49,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 53,
+                 "endCharIndex": 79,
+                 "entityName": "Return_date"
+             },
+             {
+                 "startCharIndex": 94,
+                 "endCharIndex": 99,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "Good day, please book me a trip from Vancouver, Jamaica to Recife. I would like to leave for 17 days on August 24.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 59,
+                 "endCharIndex": 65,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 37,
+                 "endCharIndex": 55,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 104,
+                 "endCharIndex": 113,
+                 "entityName": "Departure_date"
+             }
+         ]
+     },
+     {
+         "text": "Hi im looking for a nice destination that i could go to from Columbus",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 61,
+                 "endCharIndex": 69,
+                 "entityName": "From"
+             }
+         ]
+     },
+     {
+         "text": "Hi, I have a big family and we can't afford a big vacation, we want to go to Atlantis from Mos Eisley for $3600 at most.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 77,
+                 "endCharIndex": 85,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 91,
+                 "endCharIndex": 101,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 106,
+                 "endCharIndex": 111,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "Hi there, im from Vitoria and I want to go on vacation",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 18,
+                 "endCharIndex": 25,
+                 "entityName": "From"
+             }
+         ]
+     },
+     {
+         "text": "Hi, me and my family want to take a trip to Kakariko Village.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 44,
+                 "endCharIndex": 60,
+                 "entityName": "To"
+             }
+         ]
+     },
+     {
+         "text": "Hi, I'm looking for a trip  from Thursday, August 18, 2016 to Thursday, September 8, 2016 to Mexico City",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 93,
+                 "endCharIndex": 104,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 33,
+                 "endCharIndex": 58,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 62,
+                 "endCharIndex": 89,
+                 "entityName": "Return_date"
+             }
+         ]
+     },
+     {
+         "text": "Hi im from Caprica looking to book a vacation to Hyrule",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 49,
+                 "endCharIndex": 55,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 11,
+                 "endCharIndex": 18,
+                 "entityName": "From"
+             }
+         ]
+     },
+     {
+         "text": "Hey man, imma leave from Godric's Hollow on August 27, 2016 and go to Goiania. Can't pay more than 4300USD. Watcha got?",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 70,
+                 "endCharIndex": 77,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 25,
+                 "endCharIndex": 40,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 44,
+                 "endCharIndex": 59,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 99,
+                 "endCharIndex": 106,
+                 "entityName": "budget"
+             }
+         ]
+     },
+     {
+         "text": "HI im from Alexandria looking to book a 12 day vacation",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 11,
+                 "endCharIndex": 21,
+                 "entityName": "From"
+             }
+         ]
+     },
+     {
+         "text": "Hi im from termina can we find a vacation that starts on the 13th?",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 11,
+                 "endCharIndex": 18,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 57,
+                 "endCharIndex": 65,
+                 "entityName": "Departure_date"
+             }
+         ]
+     },
+     {
+         "text": "I am one person voyaging to Tampa. I can depart from Indianapolis. Must be between 20th and 31 August.",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 28,
+                 "endCharIndex": 33,
+                 "entityName": "To"
+             },
+             {
+                 "startCharIndex": 53,
+                 "endCharIndex": 65,
+                 "entityName": "From"
+             },
+             {
+                 "startCharIndex": 83,
+                 "endCharIndex": 87,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 92,
+                 "endCharIndex": 101,
+                 "entityName": "Return_date"
+             }
+         ]
+     },
+     {
+         "text": "Hi! I'm looking for a trip to Milan with two of my best friends for march break, what's available?",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 30,
+                 "endCharIndex": 35,
+                 "entityName": "To"
+             }
+         ]
+     },
+     {
+         "text": "Hello there! Looking to get away between August 27th and August 30th! Can you help me?",
+         "intentName": "BookFlight",
+         "entityLabels": [
+             {
+                 "startCharIndex": 41,
+                 "endCharIndex": 52,
+                 "entityName": "Departure_date"
+             },
+             {
+                 "startCharIndex": 57,
+                 "endCharIndex": 68,
+                 "entityName": "Return_date"
+             }
+         ]
+     }
+ ]
