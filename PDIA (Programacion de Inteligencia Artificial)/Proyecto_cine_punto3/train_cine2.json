@@ -1,0 +1,705 @@
+[
+    {
+        "text": "Quiero ver una pelicula de miedo de los 90",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 15,
+                "endCharIndex": 42,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 27,
+                                "endCharIndex": 32,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 36,
+                                "endCharIndex": 42,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero ver la pelicula de Matrix",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 14,
+                "endCharIndex": 32,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 26,
+                                "endCharIndex": 32,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero ver la peli de Matrix",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 14,
+                "endCharIndex": 28,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 22,
+                                "endCharIndex": 28,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Me gustaria alquilar la pelicula de Pulp Fiction",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 24,
+                "endCharIndex": 48,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 36,
+                                "endCharIndex": 48,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero alquilar la pelicula de Salvar al soldado Ryan",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 24,
+                "endCharIndex": 53,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 31,
+                                "endCharIndex": 53,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero ver la pelicula de el Joker",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 14,
+                "endCharIndex": 34,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 29,
+                                "endCharIndex": 34,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero ver una pelicula musical de los 90",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 15,
+                "endCharIndex": 41,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 24,
+                                "endCharIndex": 31,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 35,
+                                "endCharIndex": 41,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero ver una pelicula de accion de los 80",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 15,
+                "endCharIndex": 43,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 27,
+                                "endCharIndex": 33,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 37,
+                                "endCharIndex": 43,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero alquilar una pelicula musical de los 80",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 20,
+                "endCharIndex": 46,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 29,
+                                "endCharIndex": 36,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 40,
+                                "endCharIndex": 46,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero ver una peli de terror de el 2021",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 15,
+                "endCharIndex": 40,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 23,
+                                "endCharIndex": 29,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 33,
+                                "endCharIndex": 40,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero ver la pelicula de Alien de el 1979",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 14,
+                "endCharIndex": 42,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 26,
+                                "endCharIndex": 31,
+                                "entityName": "Titulo"
+                            },
+                            {
+                                "startCharIndex": 35,
+                                "endCharIndex": 42,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Me gustaria alquilar la peli de Predator de los 90",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 24,
+                "endCharIndex": 50,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 32,
+                                "endCharIndex": 40,
+                                "entityName": "Titulo"
+                            },
+                            {
+                                "startCharIndex": 44,
+                                "endCharIndex": 50,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Me gustaria alquilar una peli de terror de los 90",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 25,
+                "endCharIndex": 49,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 34,
+                                "endCharIndex": 39,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 43,
+                                "endCharIndex": 49,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "¿Tienes alguna pelicula de comedia de los 90?",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 15,
+                "endCharIndex": 45,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 27,
+                                "endCharIndex": 34,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 38,
+                                "endCharIndex": 44,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Busco una pelicula de fantasia",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 10,
+                "endCharIndex": 30,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 22,
+                                "endCharIndex": 30,
+                                "entityName": "Genero"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Necesito una pelicula de accion",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 13,
+                "endCharIndex": 31,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 25,
+                                "endCharIndex": 31,
+                                "entityName": "Genero"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Necesito una pelicula de terror",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 13,
+                "endCharIndex": 31,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 25,
+                                "endCharIndex": 31,
+                                "entityName": "Genero"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Necesito una pelicula de los 60",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 13,
+                "endCharIndex": 31,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 25,
+                                "endCharIndex": 31,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+            
+    },{
+        "text": "Quiero una peli de los 70",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 11,
+                "endCharIndex": 25,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 19,
+                                "endCharIndex": 25,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+            
+    },{
+        "text": "Quiero una pelicula de los 60",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 11,
+                "endCharIndex": 29,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 23,
+                                "endCharIndex": 29,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+            
+    },{
+        "text": "¿Tienes alguna peli de accion de los 80?",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 15,
+                "endCharIndex": 40,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 23,
+                                "endCharIndex": 29,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 33,
+                                "endCharIndex": 39,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Busco la pelicula de fantasia de Willow",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 9,
+                "endCharIndex": 39,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 21,
+                                "endCharIndex": 29,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 33,
+                                "endCharIndex": 39,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Busco la peli de terror de El Resplandor",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 9,
+                "endCharIndex": 40,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 17,
+                                "endCharIndex": 23,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 27,
+                                "endCharIndex": 40,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Me gustaria laquilar una pelicula de ciencia ficcion de los 90",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 25,
+                "endCharIndex": 62,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 37,
+                                "endCharIndex": 52,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 56,
+                                "endCharIndex": 62,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Quiero alquilar la pelicula de Terminator de los 80",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 19,
+                "endCharIndex": 51,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 31,
+                                "endCharIndex": 41,
+                                "entityName": "Titulo"
+                            },
+                            {
+                                "startCharIndex": 45,
+                                "endCharIndex": 51,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Quiero la peli de Terminator de los 80",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 10,
+                "endCharIndex": 38,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 18,
+                                "endCharIndex": 28,
+                                "entityName": "Titulo"
+                            },
+                            {
+                                "startCharIndex": 32,
+                                "endCharIndex": 38,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "¿Puedo alquilar la pelicula de Terminator de los 80?",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 19,
+                "endCharIndex": 52,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 31,
+                                "endCharIndex": 41,
+                                "entityName": "Titulo"
+                            },
+                            {
+                                "startCharIndex": 45,
+                                "endCharIndex": 51,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Busco una pelicula de Ciencia Ficcion",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 10,
+                "endCharIndex": 37,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 22,
+                                "endCharIndex": 37,
+                                "entityName": "Genero"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Busco la pelicula de La vida es Bella",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 9,
+                "endCharIndex": 37,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 21,
+                                "endCharIndex": 37,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero alquilar la peli de Soy Leyenda",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 19,
+                "endCharIndex": 38,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 27,
+                                "endCharIndex": 38,
+                                "entityName": "Titulo"
+                            }
+                        ]
+            }]
+                    
+    },{
+        "text": "Quiero alquilar la pelicula de Batman de los 80",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 19,
+                "endCharIndex": 47,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 31,
+                                "endCharIndex": 37,
+                                "entityName": "Titulo"
+                            },
+                            {
+                                "startCharIndex": 41,
+                                "endCharIndex": 47,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Me gustaria alquilar una peli de aventuras de el 2021",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 25,
+                "endCharIndex": 53,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 34,
+                                "endCharIndex": 43,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 46,
+                                "endCharIndex": 53,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Necesitaria alquilar una peli documental de el 2020",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 25,
+                "endCharIndex": 51,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 30,
+                                "endCharIndex": 40,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 44,
+                                "endCharIndex": 51,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Busco una pelicula de fantasia de el 2021",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 10,
+                "endCharIndex": 41,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 22,
+                                "endCharIndex": 30,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 34,
+                                "endCharIndex": 41,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    },{
+        "text": "Me gustaria alquilar una peli de terror de el 2018",
+        "intentName": "AlquilarPeli",
+        "entityLabels":
+        [{
+                "startCharIndex": 25,
+                "endCharIndex": 50,
+                "entityName": "Pelicula",
+                        "children": [
+                            {
+                                "startCharIndex": 33,
+                                "endCharIndex": 39,
+                                "entityName": "Genero"
+                            },
+                            {
+                                "startCharIndex": 43,
+                                "endCharIndex": 53,
+                                "entityName": "Epoca"
+                            }
+                        ]
+            }]
+         
+    }
+    
+
+ ]
