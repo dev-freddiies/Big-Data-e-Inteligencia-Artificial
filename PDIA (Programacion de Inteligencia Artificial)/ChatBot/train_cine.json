@@ -1,0 +1,66 @@
+[
+    {
+        "text": "Hola",
+        "intentName": "Saludos"
+    },
+    {
+        "text": "Holi",
+        "intentName": "Saludos"
+    },
+    {
+        "text": "Hey",
+        "intentName": "Saludos"
+    },
+    {
+        "text": "buenos días",
+        "intentName": "Saludos"
+    },
+    {
+        "text": "buenas tardes",
+        "intentName": "Saludos"
+    },
+    {
+        "text": "buenas noches",
+        "intentName": "Saludos"
+    },
+    {
+        "text": "Hola, qué tal?",
+        "intentName": "Saludos"
+    },
+    {
+        "text": "vale",
+        "intentName": "Confirmar"
+    },
+    {
+        "text": "si",
+        "intentName": "Confirmar"
+    },
+    {
+        "text": "ok",
+        "intentName": "Confirmar"
+    },
+    {
+        "text": "bien",
+        "intentName": "Confirmar"
+    },
+    {
+        "text": "gracias",
+        "intentName": "Agradecer"
+    },
+    {
+        "text": "genial, gracias",
+        "intentName": "Agradecer"
+    },
+    {
+        "text": "muchas gracias",
+        "intentName": "Agradecer"
+    },
+    {
+        "text": "gracias por la ayuda",
+        "intentName": "Agradecer"
+    },
+    {
+        "text": "gracias por la información",
+        "intentName": "Agradecer"
+    }
+]
