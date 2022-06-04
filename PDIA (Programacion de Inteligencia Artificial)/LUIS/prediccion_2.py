@@ -6,21 +6,13 @@ from functools import reduce
 import os,json, time, uuid
 
 
+
 def intenciones(app_id, version_id, client):
     # Añadir informacion al modelo
     print("· Añadimos la intencion 'book' y 5 entidades correspondientes a ciudad origen, ciudad destino, fecha_inicio, fecha_fin y presupuesto.")
     print("")
 
     client.model.add_intent(app_id, version_id, 'BookFlight')
-    
-    # --- --- --- --- --- ---> · Con el bucle for no fuciona, hay que cambiarlo
-    '''
-    #Añadimos intenciones
-    intentNames = ["BookFlight"]
-    for intent in intentNames:
-        client.model.add_intent(app_id, version_id, intent)
-    '''   
-    # <--- --- --- --- --- --- ·
     
     print("· Intención creada")
     print("")
@@ -147,21 +139,3 @@ def prediccion(peticion, predictionKey, predictionEndpoint, app_id):
     print("- Entidades reconocidas en la orden: {}".format (predictionResponse.prediction.entities))
     print("")
 
-
-
-
-'''
-def preconstruidaspreconstruidas(client, app_id, version_id, departure_date_id, return_date_id, budgeet_id):
-    # Crear entidades. Como vamos a usar entidades preconstruidas, la añadimos al modelo
-    # Añadir entidad preconstruida :
-    client.model.add_prebuilt(app_id, version_id, prebuilt_extractor_names=["money", "datetimeV2"])
-
-    # añade característica a la entidades creadas como entidades predefinidas
-
-    prebuiltFeaturedDefinition = {"model_name": "datetimeV2", "is_required": False}
-    client.features.add_entity_feature(app_id, version_id, departure_date_id, prebuiltFeaturedDefinition)
-    client.features.add_entity_feature(app_id, version_id, return_date_id, prebuiltFeaturedDefinition)
-
-    prebuiltFeaturedDefinition = {"model_name": "money", "is_required": False}
-    client.features.add_entity_feature(app_id, version_id, budget_id, prebuiltFeaturedDefinition)
-'''

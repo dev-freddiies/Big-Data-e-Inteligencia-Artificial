@@ -60,7 +60,7 @@ print("")
 
 # --- --- --- --- --- --- --- --- --- --- --- --- --- #
 
-
+entidades=['']
 
 ### --- --- --- --- --- --- --- --- --- --- PEDIMOS LOS DATOS AL USUARIO  --- --- --- --- --- --- --- --- --- --- ###
 
@@ -74,13 +74,9 @@ peticion = "I want to book a trip to Sevilla from Caprica on Saturday, August 13
 
 prediccion_2.intenciones(app_id, version_id, client)
 prediccion_2.entidades(app_id, version_id, client)
-
-# departure_date_id, return_date_id, budget_id = prediccion_2.entidades(app_id, version_id, client)
-
 prediccion_2.ejemplos(app_id, version_id, client)
 prediccion_2.entrenamiento(app_id, version_id, client)
 prediccion_2.prediccion(peticion, predictionKey, predictionEndpoint, app_id)
-# prediccion_2.preconstruidaspreconstruidas(client, app_id, version_id, departure_date_id, return_date_id, budgeet_id) #--- --- --- --- --- ---> No funcionan, hay que ver por qué
 
 # --- --- --- --- --- --- --- --- --- --- --- --- --- #
 
